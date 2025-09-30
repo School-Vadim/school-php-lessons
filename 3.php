@@ -4,5 +4,5 @@
     $variable = 6.5;
     print("My double variable: $variable <br>");
     $variable = "Six";
-    print("My string variable: $variable <br>");
+    print("My string variable: %s <br>", $variable);
 ?>
