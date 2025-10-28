@@ -19,8 +19,8 @@
 
     printf("<br>");
 
-    printf("<br>\ $a = %d", $a);
-    printf("<br>\ $b = %d", $b);
-    printf("<br>\ $c = %d", $c);
-    printf("<br>\ $d = %d", $d);
+    printf("<br>A = %d", $a);
+    printf("<br>B = %d", $b);
+    printf("<br>C = %d", $c);
+    printf("<br>D = %d", $d);
 ?>
