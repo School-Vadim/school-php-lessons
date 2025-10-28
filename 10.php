@@ -12,10 +12,10 @@
 
     //etc
     $a = $b = $c = $d = 5;
-    pritnf("<br>Operator preinkrementacji ++\ $a = %d", ++$a);
-    pritnf("<br>Operator postinkrementacji $b++ = %d", $b++);
-    pritnf("<br>Operator predekrementacji --\ $c = %d", --$c);
-    pritnf("<br>Operator postdekrementacji $a++ = %d", $d--);
+    printf("<br>Operator preinkrementacji ++\ $a = %d", ++$a);
+    printf("<br>Operator postinkrementacji $b++ = %d", $b++);
+    printf("<br>Operator predekrementacji --\ $c = %d", --$c);
+    printf("<br>Operator postdekrementacji $a++ = %d", $d--);
 
     printf("<br>");
 
