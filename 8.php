@@ -4,6 +4,7 @@
     do {
         $result = $i * $i;
         printf("%d * %d = %d", $i, $i, $result);
+        $i++;
     } while($i < 10);
 
 ?>
