@@ -5,7 +5,7 @@
     $state = true;
     $text = "php";
 
-    if($state && $text == "PHP")
+    if($state && $text == "php")
         printf("Operator AND: &&<br>");
     if($state || $text == "OR")
         printf("Operator OR: ||<br>");
